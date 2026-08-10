@@ -7,7 +7,7 @@ Welcome to the **Digital Signal and Image Processing** repository! This project 
 ## 🛠️ Tech Stack & Dependencies
 
 * **Language:** Python 3.x
-* **Environment:** Jupyter Notebook / Google Colab
+* **Environment:** Jupyter Notebook / Google Colab / Python With VS code 
 * **Libraries:** `numpy`, `matplotlib`, `scipy`, `opencv-python`, `pillow`
 
 ---
